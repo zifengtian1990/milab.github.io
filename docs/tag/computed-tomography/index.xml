@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Computed Tomography | MILab</title>
-    <link>/tag/computed-tomography/</link>
-      <atom:link href="/tag/computed-tomography/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://zifengtian1990.github.io/milab.github.io/tag/computed-tomography/</link>
+      <atom:link href="https://zifengtian1990.github.io/milab.github.io/tag/computed-tomography/index.xml" rel="self" type="application/rss+xml" />
     <description>Computed Tomography</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://zifengtian1990.github.io/milab.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Computed Tomography</title>
-      <link>/tag/computed-tomography/</link>
+      <link>https://zifengtian1990.github.io/milab.github.io/tag/computed-tomography/</link>
     </image>
     
     <item>
       <title>Sample Talk</title>
-      <link>/talk/example/</link>
+      <link>https://zifengtian1990.github.io/milab.github.io/talk/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>/talk/example/</guid>
+      <guid>https://zifengtian1990.github.io/milab.github.io/talk/example/</guid>
       <description></description>
     </item>
     
