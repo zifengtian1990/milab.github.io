@@ -13,10 +13,18 @@
     </image>
     
     <item>
-      <title>project 2</title>
-      <link>https://zifengtian1990.github.io/milab.github.io/project/project-2/</link>
+      <title>Optical coherence tomography</title>
+      <link>https://zifengtian1990.github.io/milab.github.io/project/oct/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://zifengtian1990.github.io/milab.github.io/project/project-2/</guid>
+      <guid>https://zifengtian1990.github.io/milab.github.io/project/oct/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Retinal Camera</title>
+      <link>https://zifengtian1990.github.io/milab.github.io/project/retinal-camera/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://zifengtian1990.github.io/milab.github.io/project/retinal-camera/</guid>
       <description></description>
     </item>
     

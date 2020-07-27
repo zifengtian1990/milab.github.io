@@ -1,6 +1,6 @@
 ---
-title: project 2
-summary: sample project 2
+title: Optical coherence tomography 
+summary: Novel OCT device development and algorithm design.
 tags:
 - Ophthalmology
 date: "2020-01-01T00:00:00Z"

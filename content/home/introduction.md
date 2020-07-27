@@ -4,7 +4,7 @@ headless = true
 active = true
 weight = 1
 
-title = "Introduction"
+title = "Molecular Imaging Laboratory"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -22,7 +22,7 @@ title = "Introduction"
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "0", "20px", "0"]
+  padding = ["40px", "20px", "40px", "20px"]
 
 [advanced]
  # Custom CSS. 
@@ -33,7 +33,7 @@ title = "Introduction"
  
 +++
 
-# Molecular Imaging Laboratory
+
 
 ## The Molecular Imaging Laboratory (MILab) at Peking University focuses on nuclear medicine deivices development and algorithms design. 
 

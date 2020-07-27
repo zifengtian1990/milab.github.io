@@ -1,6 +1,6 @@
 ---
-title: Project 1
-summary: sample project
+title: Low-dose PET
+summary: Low-dose PET image reconstruction algorithm design
 tags:
 - Nuclear Medicine
 date: "2020-01-01T00:00:00Z"
