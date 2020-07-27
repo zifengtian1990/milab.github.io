@@ -1,8 +1,8 @@
 +++
 # About widget.
 widget = "about"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+headless = false  # This file represents a page section.
+active = false  # Activate this widget? true/false
 weight = 5  # Order that this section will appear in.
 
 title = "Biography"
@@ -11,4 +11,5 @@ title = "Biography"
 # This should be the username of a profile in your `content/authors/` folder.
 # See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
 author = "Qiushi Ren"
+# NOTE: THIS WEBSITE SHOULD BE DESIGNED AS CHINESE STYLE LAB WEBSITE, SO I SHOULD NOT LIST PROF. REN'S PROFILE AT THE BEGINNING. 
 +++
