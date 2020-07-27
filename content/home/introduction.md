@@ -1,13 +1,10 @@
 +++
 widget = "blank"
 headless = true
+active = true
+weight = 1
 
 # ... Put Your Section Options Here (title etc.) ...
-```markdown
-- [x] find a way to use a image as backgroud
-- [x] search for a background image
-- [x] edit text 
-```
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
