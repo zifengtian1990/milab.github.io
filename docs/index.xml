@@ -2,79 +2,79 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MILab</title>
-    <link>https://zifengtian1990.github.io/milab.github.io/</link>
-      <atom:link href="https://zifengtian1990.github.io/milab.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.milab.wiki/</link>
+      <atom:link href="https://www.milab.wiki/index.xml" rel="self" type="application/rss+xml" />
     <description>MILab</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://zifengtian1990.github.io/milab.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://www.milab.wiki/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>MILab</title>
-      <link>https://zifengtian1990.github.io/milab.github.io/</link>
+      <link>https://www.milab.wiki/</link>
     </image>
     
     <item>
       <title>Sample Talk</title>
-      <link>https://zifengtian1990.github.io/milab.github.io/talk/example/</link>
+      <link>https://www.milab.wiki/talk/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://zifengtian1990.github.io/milab.github.io/talk/example/</guid>
+      <guid>https://www.milab.wiki/talk/example/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dummy Project - I</title>
-      <link>https://zifengtian1990.github.io/milab.github.io/project/low-dose-pet/</link>
+      <link>https://www.milab.wiki/project/low-dose-pet/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://zifengtian1990.github.io/milab.github.io/project/low-dose-pet/</guid>
+      <guid>https://www.milab.wiki/project/low-dose-pet/</guid>
       <description>&lt;p&gt;qweruiop&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Dummy Project - II</title>
-      <link>https://zifengtian1990.github.io/milab.github.io/project/micro-pet/</link>
+      <link>https://www.milab.wiki/project/micro-pet/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://zifengtian1990.github.io/milab.github.io/project/micro-pet/</guid>
+      <guid>https://www.milab.wiki/project/micro-pet/</guid>
       <description>&lt;p&gt;qweruiop&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Dummy Project - III</title>
-      <link>https://zifengtian1990.github.io/milab.github.io/project/oct/</link>
+      <link>https://www.milab.wiki/project/oct/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://zifengtian1990.github.io/milab.github.io/project/oct/</guid>
+      <guid>https://www.milab.wiki/project/oct/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dummy Project - IV</title>
-      <link>https://zifengtian1990.github.io/milab.github.io/project/retinal-camera/</link>
+      <link>https://www.milab.wiki/project/retinal-camera/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://zifengtian1990.github.io/milab.github.io/project/retinal-camera/</guid>
+      <guid>https://www.milab.wiki/project/retinal-camera/</guid>
       <description></description>
     </item>
     
     <item>
       <title>sample journal article 1</title>
-      <link>https://zifengtian1990.github.io/milab.github.io/publication/journal-article-1/</link>
+      <link>https://www.milab.wiki/publication/journal-article-1/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://zifengtian1990.github.io/milab.github.io/publication/journal-article-1/</guid>
+      <guid>https://www.milab.wiki/publication/journal-article-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>https://zifengtian1990.github.io/milab.github.io/slides/example/</link>
+      <link>https://www.milab.wiki/slides/example/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://zifengtian1990.github.io/milab.github.io/slides/example/</guid>
+      <guid>https://www.milab.wiki/slides/example/</guid>
       <description></description>
     </item>
     
     <item>
       <title>conference paper 1</title>
-      <link>https://zifengtian1990.github.io/milab.github.io/publication/conf-paper-1/</link>
+      <link>https://www.milab.wiki/publication/conf-paper-1/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://zifengtian1990.github.io/milab.github.io/publication/conf-paper-1/</guid>
+      <guid>https://www.milab.wiki/publication/conf-paper-1/</guid>
       <description></description>
     </item>
     

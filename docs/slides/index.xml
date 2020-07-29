@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Slides | MILab</title>
-    <link>https://zifengtian1990.github.io/milab.github.io/slides/</link>
-      <atom:link href="https://zifengtian1990.github.io/milab.github.io/slides/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.milab.wiki/slides/</link>
+      <atom:link href="https://www.milab.wiki/slides/index.xml" rel="self" type="application/rss+xml" />
     <description>Slides</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <item>
       <title>Slides</title>
-      <link>https://zifengtian1990.github.io/milab.github.io/slides/example/</link>
+      <link>https://www.milab.wiki/slides/example/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://zifengtian1990.github.io/milab.github.io/slides/example/</guid>
+      <guid>https://www.milab.wiki/slides/example/</guid>
       <description></description>
     </item>
     

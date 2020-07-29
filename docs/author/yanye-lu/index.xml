@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yanye Lu | MILab</title>
-    <link>https://zifengtian1990.github.io/milab.github.io/author/yanye-lu/</link>
-      <atom:link href="https://zifengtian1990.github.io/milab.github.io/author/yanye-lu/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.milab.wiki/author/yanye-lu/</link>
+      <atom:link href="https://www.milab.wiki/author/yanye-lu/index.xml" rel="self" type="application/rss+xml" />
     <description>Yanye Lu</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://zifengtian1990.github.io/milab.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://www.milab.wiki/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Yanye Lu</title>
-      <link>https://zifengtian1990.github.io/milab.github.io/author/yanye-lu/</link>
+      <link>https://www.milab.wiki/author/yanye-lu/</link>
     </image>
     
     <item>
       <title>Sample Talk</title>
-      <link>https://zifengtian1990.github.io/milab.github.io/talk/example/</link>
+      <link>https://www.milab.wiki/talk/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://zifengtian1990.github.io/milab.github.io/talk/example/</guid>
+      <guid>https://www.milab.wiki/talk/example/</guid>
       <description></description>
     </item>
     
     <item>
       <title>sample journal article 1</title>
-      <link>https://zifengtian1990.github.io/milab.github.io/publication/journal-article-1/</link>
+      <link>https://www.milab.wiki/publication/journal-article-1/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://zifengtian1990.github.io/milab.github.io/publication/journal-article-1/</guid>
+      <guid>https://www.milab.wiki/publication/journal-article-1/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>多模态 | MILab</title>
-    <link>https://zifengtian1990.github.io/milab.github.io/tag/%E5%A4%9A%E6%A8%A1%E6%80%81/</link>
-      <atom:link href="https://zifengtian1990.github.io/milab.github.io/tag/%E5%A4%9A%E6%A8%A1%E6%80%81/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.milab.wiki/tag/%E5%A4%9A%E6%A8%A1%E6%80%81/</link>
+      <atom:link href="https://www.milab.wiki/tag/%E5%A4%9A%E6%A8%A1%E6%80%81/index.xml" rel="self" type="application/rss+xml" />
     <description>多模态</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://zifengtian1990.github.io/milab.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://www.milab.wiki/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>多模态</title>
-      <link>https://zifengtian1990.github.io/milab.github.io/tag/%E5%A4%9A%E6%A8%A1%E6%80%81/</link>
+      <link>https://www.milab.wiki/tag/%E5%A4%9A%E6%A8%A1%E6%80%81/</link>
     </image>
     
     <item>
       <title>Dummy Project - I</title>
-      <link>https://zifengtian1990.github.io/milab.github.io/project/low-dose-pet/</link>
+      <link>https://www.milab.wiki/project/low-dose-pet/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://zifengtian1990.github.io/milab.github.io/project/low-dose-pet/</guid>
+      <guid>https://www.milab.wiki/project/low-dose-pet/</guid>
       <description>&lt;p&gt;qweruiop&lt;/p&gt;
 </description>
     </item>

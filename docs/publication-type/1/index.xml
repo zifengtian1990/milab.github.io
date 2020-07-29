@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 | MILab</title>
-    <link>https://zifengtian1990.github.io/milab.github.io/publication-type/1/</link>
-      <atom:link href="https://zifengtian1990.github.io/milab.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.milab.wiki/publication-type/1/</link>
+      <atom:link href="https://www.milab.wiki/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://zifengtian1990.github.io/milab.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://www.milab.wiki/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>1</title>
-      <link>https://zifengtian1990.github.io/milab.github.io/publication-type/1/</link>
+      <link>https://www.milab.wiki/publication-type/1/</link>
     </image>
     
     <item>
       <title>conference paper 1</title>
-      <link>https://zifengtian1990.github.io/milab.github.io/publication/conf-paper-1/</link>
+      <link>https://www.milab.wiki/publication/conf-paper-1/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://zifengtian1990.github.io/milab.github.io/publication/conf-paper-1/</guid>
+      <guid>https://www.milab.wiki/publication/conf-paper-1/</guid>
       <description></description>
     </item>
     
