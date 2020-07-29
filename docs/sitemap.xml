@@ -3,21 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://zifengtian1990.github.io/milab.github.io/courses/example/example1/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zifengtian1990.github.io/milab.github.io/courses/example/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zifengtian1990.github.io/milab.github.io/courses/example/example2/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://zifengtian1990.github.io/milab.github.io/authors/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
@@ -73,17 +58,12 @@
   </url>
   
   <url>
-    <loc>https://zifengtian1990.github.io/milab.github.io/tag/nuclear-medicine/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zifengtian1990.github.io/milab.github.io/tag/ophthalmology/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://zifengtian1990.github.io/milab.github.io/project/oct/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zifengtian1990.github.io/milab.github.io/project/retinal-camera/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -98,17 +78,7 @@
   </url>
   
   <url>
-    <loc>https://zifengtian1990.github.io/milab.github.io/publication/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://zifengtian1990.github.io/milab.github.io/author/qiushi-ren/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zifengtian1990.github.io/milab.github.io/project/retinal-camera/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -128,18 +98,23 @@
   </url>
   
   <url>
-    <loc>https://zifengtian1990.github.io/milab.github.io/post/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+    <loc>https://zifengtian1990.github.io/milab.github.io/publication/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zifengtian1990.github.io/milab.github.io/post/writing-technical-content/</loc>
-    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
+    <loc>https://zifengtian1990.github.io/milab.github.io/tag/%E5%A4%9A%E6%A8%A1%E6%80%81/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zifengtian1990.github.io/milab.github.io/courses/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+    <loc>https://zifengtian1990.github.io/milab.github.io/tag/%E6%8E%A2%E9%92%88/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zifengtian1990.github.io/milab.github.io/tag/%E7%9C%BC%E7%A7%91/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -153,52 +128,11 @@
   </url>
   
   <url>
-    <loc>https://zifengtian1990.github.io/milab.github.io/author/admin/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zifengtian1990.github.io/milab.github.io/post/jupyter/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zifengtian1990.github.io/milab.github.io/tag/academic/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zifengtian1990.github.io/milab.github.io/post/getting-started/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <loc>https://zifengtian1990.github.io/milab.github.io/author/another-dummy/</loc>
   </url>
   
   <url>
     <loc>https://zifengtian1990.github.io/milab.github.io/categories/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zifengtian1990.github.io/milab.github.io/category/demo/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zifengtian1990.github.io/milab.github.io/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zifengtian1990.github.io/milab.github.io/tag/%E5%BC%80%E6%BA%90/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zifengtian1990.github.io/milab.github.io/category/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zifengtian1990.github.io/milab.github.io/author/another-dummy/</loc>
   </url>
   
   <url>
@@ -218,11 +152,11 @@
   </url>
   
   <url>
-    <loc>https://zifengtian1990.github.io/milab.github.io/author/qiushi-ren/</loc>
+    <loc>https://zifengtian1990.github.io/milab.github.io/author/%E4%BB%BB%E7%A7%8B%E5%AE%9E/</loc>
   </url>
   
   <url>
-    <loc>https://zifengtian1990.github.io/milab.github.io/author/yanye-lu/</loc>
+    <loc>https://zifengtian1990.github.io/milab.github.io/author/%E5%8D%A2%E9%97%AB%E6%99%94/</loc>
   </url>
   
 </urlset>

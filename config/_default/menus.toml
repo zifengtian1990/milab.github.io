@@ -9,27 +9,32 @@
 #  weight = 10
 
 [[main]]
-  name = "Projects"
+  name = "研究项目"
   url = "#projects"
   weight = 10
 
 [[main]]
-  name = "Researchers"
+  name = "团队成员"
   url = "#people"
   weight = 20
   
 [[main]]
-  name = "Publications"
-  url = "#publications"
-  weight = 30
+  name = "近期发表成果"
+  url = "#featured"
+  weight = 29
+
+#[[main]]
+#  name = "发表成果"
+#  url = "#publications"
+#  weight = 30
 
 [[main]]
-  name = "Gallery"
+  name = "图集"
   url = "#gallery"
   weight = 40
 
 [[main]]
-  name = "Contact"
+  name = "联系我们"
   url = "#contact"
   weight = 50
 

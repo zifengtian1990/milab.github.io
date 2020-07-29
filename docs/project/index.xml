@@ -5,7 +5,7 @@
     <link>https://zifengtian1990.github.io/milab.github.io/project/</link>
       <atom:link href="https://zifengtian1990.github.io/milab.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://zifengtian1990.github.io/milab.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>Low-dose PET</title>
+      <title>Dummy Project - I</title>
       <link>https://zifengtian1990.github.io/milab.github.io/project/low-dose-pet/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://zifengtian1990.github.io/milab.github.io/project/low-dose-pet/</guid>
@@ -22,7 +22,7 @@
     </item>
     
     <item>
-      <title>Multi-modalities imaging of small animals</title>
+      <title>Dummy Project - II</title>
       <link>https://zifengtian1990.github.io/milab.github.io/project/micro-pet/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://zifengtian1990.github.io/milab.github.io/project/micro-pet/</guid>
@@ -31,7 +31,7 @@
     </item>
     
     <item>
-      <title>Optical coherence tomography</title>
+      <title>Dummy Project - III</title>
       <link>https://zifengtian1990.github.io/milab.github.io/project/oct/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://zifengtian1990.github.io/milab.github.io/project/oct/</guid>
@@ -39,7 +39,7 @@
     </item>
     
     <item>
-      <title>Retinal Camera</title>
+      <title>Dummy Project - IV</title>
       <link>https://zifengtian1990.github.io/milab.github.io/project/retinal-camera/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://zifengtian1990.github.io/milab.github.io/project/retinal-camera/</guid>
