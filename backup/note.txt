@@ -1,0 +1,1 @@
+- Before submitting to GitHub, run hugo.
