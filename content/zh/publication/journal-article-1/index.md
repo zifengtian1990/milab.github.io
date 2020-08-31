@@ -1,8 +1,7 @@
 ---
 title: "sample journal article 1"
 authors:
-- Qiushi Ren
-- Yanye Lu
+- 任秋实
 date: "2020-01-01T00:00:00Z"
 doi: ""
 

@@ -5,12 +5,28 @@
     <link>https://www.milab.wiki/author/%E4%BB%BB%E7%A7%8B%E5%AE%9E/</link>
       <atom:link href="https://www.milab.wiki/author/%E4%BB%BB%E7%A7%8B%E5%AE%9E/index.xml" rel="self" type="application/rss+xml" />
     <description>任秋实</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.milab.wiki/author/%E4%BB%BB%E7%A7%8B%E5%AE%9E/avatar_hua8426b9834c0f6f31ac1c966fdc90b1c_22149_270x270_fill_q90_lanczos_center.jpg</url>
       <title>任秋实</title>
       <link>https://www.milab.wiki/author/%E4%BB%BB%E7%A7%8B%E5%AE%9E/</link>
     </image>
+    
+    <item>
+      <title>sample journal article 1</title>
+      <link>https://www.milab.wiki/publication/journal-article-1/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.milab.wiki/publication/journal-article-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>conference paper 1</title>
+      <link>https://www.milab.wiki/publication/conf-paper-1/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.milab.wiki/publication/conf-paper-1/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

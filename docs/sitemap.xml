@@ -58,11 +58,6 @@
   </url>
   
   <url>
-    <loc>https://www.milab.wiki/author/qiushi-ren/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.milab.wiki/publication/journal-article-1/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -74,6 +69,11 @@
   
   <url>
     <loc>https://www.milab.wiki/slides/example/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.milab.wiki/author/%E4%BB%BB%E7%A7%8B%E5%AE%9E/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -148,14 +148,6 @@
   
   <url>
     <loc>https://www.milab.wiki/author/old-dummy/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.milab.wiki/author/%E4%BB%BB%E7%A7%8B%E5%AE%9E/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.milab.wiki/author/%E5%8D%A2%E9%97%AB%E6%99%94/</loc>
   </url>
   
 </urlset>

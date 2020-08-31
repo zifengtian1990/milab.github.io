@@ -1,7 +1,7 @@
 ---
 title: "conference paper 1"
 authors:
-- Qiushi Ren
+- 任秋实
 date: "2019-04-07T00:00:00Z"
 doi: ""
 
