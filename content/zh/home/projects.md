@@ -19,23 +19,23 @@ subtitle = ""
   # To remove toolbar, delete/comment all instances of `[[content.filter_button]]` below.
   
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
-  filter_default = 0
+#  filter_default = 0
   
-  [[content.filter_button]]
-    name = "全部"
-    tag = "*"
+#  [[content.filter_button]]
+#    name = "全部"
+#    tag = "*"
   
-  [[content.filter_button]]
-    name = "多模态成像技术与医学图像处理"
-    tag = "多模态"
+#  [[content.filter_button]]
+#    name = "多模态成像技术与医学图像处理"
+#    tag = "多模态"
   
-  [[content.filter_button]]
-    name = "视觉科学与诊疗技术研究"
-    tag = "眼科"
+#  [[content.filter_button]]
+#    name = "视觉科学与诊疗技术研究"
+#    tag = "眼科"
 
-  [[content.filter_button]]
-    name = "分子影像应用与探针研发"
-    tag = "探针"
+#  [[content.filter_button]]
+#    name = "分子影像应用与探针研发"
+#    tag = "探针"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

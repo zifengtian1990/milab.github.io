@@ -3,22 +3,22 @@
 # This section displays people from `content/authors/` which belong to the `user_groups` below.
 
 widget = "people"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = false # This file represents a page section.
-active = false  # Activate this widget? true/false
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "全部团队成员"
-subtitle = ""
+title = "团队负责人"
+subtitle = "[查看全部团队成员>>](./authors/)"
 
 [content]
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups = ["实验室负责人（PI）",
-                 "共同负责人（Co-PI）",
-                 "研究生",
-                 "管理人员",
-                 "访问学者",
-                 "毕业生"]
+                 "共同负责人（Co-PI）"]
+#                 "研究生",
+#                 "管理人员",
+#                 "访问学者",
+#                 "毕业生"]
 
 [design]
   # Show user's social networking links? (true/false)

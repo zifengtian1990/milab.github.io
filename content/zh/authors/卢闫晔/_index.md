@@ -66,8 +66,8 @@ email: "yanye.lu@pku.edu.cn"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 科研人员
-- 管理人员
+- 实验室负责人（PI）
+- 共同负责人（Co-PI）
 ---
 
 Yanye Lu received the B.S. and Master degrees in Electrical Engineering in 2008 and 2011 respectively, and the Ph.D. in Biomedical Engineering from Peking University in 2016. He is a researcher at the Pattern Recognition Lab, Friedrich-

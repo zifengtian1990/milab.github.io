@@ -1,5 +1,5 @@
 ---
-title: Dummy Project - I
+title: 多模态成像技术与医学图像处理
 summary: A empty project for now
 tags:
 - 多模态

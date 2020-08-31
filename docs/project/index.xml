@@ -13,16 +13,7 @@
     </image>
     
     <item>
-      <title>Dummy Project - I</title>
-      <link>https://www.milab.wiki/project/low-dose-pet/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.milab.wiki/project/low-dose-pet/</guid>
-      <description>&lt;p&gt;qweruiop&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Dummy Project - II</title>
+      <title>分子影像应用与探针研发</title>
       <link>https://www.milab.wiki/project/micro-pet/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://www.milab.wiki/project/micro-pet/</guid>
@@ -31,18 +22,19 @@
     </item>
     
     <item>
-      <title>Dummy Project - III</title>
-      <link>https://www.milab.wiki/project/oct/</link>
+      <title>多模态成像技术与医学图像处理</title>
+      <link>https://www.milab.wiki/project/low-dose-pet/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.milab.wiki/project/oct/</guid>
-      <description></description>
+      <guid>https://www.milab.wiki/project/low-dose-pet/</guid>
+      <description>&lt;p&gt;qweruiop&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Dummy Project - IV</title>
-      <link>https://www.milab.wiki/project/retinal-camera/</link>
+      <title>视觉科学与诊疗技术研究</title>
+      <link>https://www.milab.wiki/project/oct/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.milab.wiki/project/retinal-camera/</guid>
+      <guid>https://www.milab.wiki/project/oct/</guid>
       <description></description>
     </item>
     

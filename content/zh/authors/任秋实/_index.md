@@ -66,7 +66,7 @@ email: "renqsh@coe.pku.edu.cn"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 实验室负责人
+- 实验室负责人（PI）
 ---
 
 Qiushi Ren is a professor and Ph.D. supervisor in the department of biomedical engineering, Peking University, Beijing, China. At present, his research interests include medical imaging instrumentation, laser medicine and visual prosthesis.

@@ -2,7 +2,7 @@
 widget = "blank"
 headless = true
 active = true
-weight = 1
+weight = 5
 
 title = "北京大学分子影像实验室"
 

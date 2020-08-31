@@ -9,13 +9,18 @@
 #  weight = 10
 
 [[main]]
+  name = "近期动态"
+  url = "#posts"
+  weight = 5
+
+[[main]]
   name = "研究项目"
   url = "#projects"
   weight = 10
 
 [[main]]
   name = "团队成员"
-  url = "#people"
+  url = "#pi"
   weight = 20
   
 [[main]]
@@ -32,6 +37,11 @@
   name = "图集"
   url = "#gallery"
   weight = 40
+
+[[main]]
+  name = "Intranet"
+  url = "/intranet"
+  weight = 55
 
 [[main]]
   name = "联系我们"

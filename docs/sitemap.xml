@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.milab.wiki/authors/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.milab.wiki/tag/computed-tomography/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
@@ -38,32 +33,17 @@
   </url>
   
   <url>
+    <loc>https://www.milab.wiki/authors/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.milab.wiki/publication-type/2/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.milab.wiki/tag/deep-learning/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.milab.wiki/project/low-dose-pet/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.milab.wiki/project/micro-pet/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.milab.wiki/project/oct/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.milab.wiki/project/retinal-camera/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -98,6 +78,11 @@
   </url>
   
   <url>
+    <loc>https://www.milab.wiki/project/micro-pet/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.milab.wiki/publication/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -108,12 +93,22 @@
   </url>
   
   <url>
+    <loc>https://www.milab.wiki/project/low-dose-pet/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.milab.wiki/tag/%E6%8E%A2%E9%92%88/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.milab.wiki/tag/%E7%9C%BC%E7%A7%91/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.milab.wiki/project/oct/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -145,6 +140,10 @@
   
   <url>
     <loc>https://www.milab.wiki/author/dummy-yesterday/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.milab.wiki/intranet/</loc>
   </url>
   
   <url>
