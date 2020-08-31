@@ -23,7 +23,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: "2020-01-01T00:00:00Z"
 
-authors: [Yanye Lu]
+authors: [任秋实]
 tags: [Computed Tomography]
 
 # Is this a featured talk? (true/false)
