@@ -3,38 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.milab.wiki/tag/computed-tomography/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <loc>https://www.milab.wiki/project/low-dose-pet/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.milab.wiki/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <loc>https://www.milab.wiki/project/oct/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.milab.wiki/talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.milab.wiki/talk/example/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.milab.wiki/tags/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.milab.wiki/author/%E4%BB%BB%E7%A7%8B%E5%AE%9E/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.milab.wiki/authors/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <loc>https://www.milab.wiki/project/micro-pet/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -44,6 +24,11 @@
   
   <url>
     <loc>https://www.milab.wiki/tag/deep-learning/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.milab.wiki/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -63,17 +48,12 @@
   </url>
   
   <url>
-    <loc>https://www.milab.wiki/slides/</loc>
+    <loc>https://www.milab.wiki/tags/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.milab.wiki/slides/example/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.milab.wiki/project/micro-pet/</loc>
+    <loc>https://www.milab.wiki/author/%E4%BB%BB%E7%A7%8B%E5%AE%9E/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -83,12 +63,12 @@
   </url>
   
   <url>
-    <loc>https://www.milab.wiki/tag/%E5%A4%9A%E6%A8%A1%E6%80%81/</loc>
+    <loc>https://www.milab.wiki/authors/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.milab.wiki/project/low-dose-pet/</loc>
+    <loc>https://www.milab.wiki/tag/%E5%A4%9A%E6%A8%A1%E6%80%81/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -99,11 +79,6 @@
   
   <url>
     <loc>https://www.milab.wiki/tag/%E7%9C%BC%E7%A7%91/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.milab.wiki/project/oct/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   

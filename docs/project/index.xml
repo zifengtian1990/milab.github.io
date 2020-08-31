@@ -13,15 +13,6 @@
     </image>
     
     <item>
-      <title>分子影像应用与探针研发</title>
-      <link>https://www.milab.wiki/project/micro-pet/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.milab.wiki/project/micro-pet/</guid>
-      <description>&lt;p&gt;qweruiop&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>多模态成像技术与医学图像处理</title>
       <link>https://www.milab.wiki/project/low-dose-pet/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
@@ -36,6 +27,15 @@
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://www.milab.wiki/project/oct/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>分子影像应用与探针研发</title>
+      <link>https://www.milab.wiki/project/micro-pet/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.milab.wiki/project/micro-pet/</guid>
+      <description>&lt;p&gt;qweruiop&lt;/p&gt;
+</description>
     </item>
     
   </channel>

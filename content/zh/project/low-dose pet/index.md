@@ -4,15 +4,16 @@ summary: A empty project for now
 tags:
 - 多模态
 date: "2020-01-01T00:00:00Z"
+weight: 10
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
-image:
-  caption: ''
-  focal_point: Smart
+# image:
+#   caption: ''
+#   focal_point: Smart
 
-links:
+# links:
 #- icon: twitter
 #  icon_pack: fab
 #  name: Follow
@@ -27,7 +28,7 @@ links:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
 ---
 
 qweruiop
