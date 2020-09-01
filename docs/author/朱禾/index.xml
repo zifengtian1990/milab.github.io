@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>朱禾 | MILab</title>
+    <link>https://www.milab.wiki/author/%E6%9C%B1%E7%A6%BE/</link>
+      <atom:link href="https://www.milab.wiki/author/%E6%9C%B1%E7%A6%BE/index.xml" rel="self" type="application/rss+xml" />
+    <description>朱禾</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language>
+    <image>
+      <url>https://www.milab.wiki/author/%E6%9C%B1%E7%A6%BE/avatar_huef0c9127a0b51d205f8ccb1313ae1bbe_35564_270x270_fill_q90_lanczos_center.jpg</url>
+      <title>朱禾</title>
+      <link>https://www.milab.wiki/author/%E6%9C%B1%E7%A6%BE/</link>
+    </image>
+    
+  </channel>
+</rss>

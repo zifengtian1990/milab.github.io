@@ -73,10 +73,10 @@
 # About widget
 
 - id: interests
-  translation: 兴趣爱好
+  translation: 研究方向
 
 - id: education
-  translation: 教育经历
+  translation: 学术经历
 
 - id: user_profile_latest
   translation: 最新
