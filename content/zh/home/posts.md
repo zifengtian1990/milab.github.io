@@ -8,7 +8,8 @@ active = true  # Activate this widget? true/false
 weight = 8  # Order that this section will appear.
 
 title = "近期动态"
-subtitle = ""
+subtitle = "[查看全部通知>>](./post/)"
+isCJKLanguage = true
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -66,6 +67,3 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
-### News coming
-#### soon...

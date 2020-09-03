@@ -1,42 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>MILab</title>
-    <link>https://www.milab.wiki/</link>
-      <atom:link href="https://www.milab.wiki/index.xml" rel="self" type="application/rss+xml" />
-    <description>MILab</description>
+    <title>milab_spokesperson | MILab</title>
+    <link>https://www.milab.wiki/author/milab_spokesperson/</link>
+      <atom:link href="https://www.milab.wiki/author/milab_spokesperson/index.xml" rel="self" type="application/rss+xml" />
+    <description>milab_spokesperson</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.milab.wiki/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>MILab</title>
-      <link>https://www.milab.wiki/</link>
+      <title>milab_spokesperson</title>
+      <link>https://www.milab.wiki/author/milab_spokesperson/</link>
     </image>
-    
-    <item>
-      <title>多模态成像技术与医学图像处理</title>
-      <link>https://www.milab.wiki/project/low-dose-pet/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.milab.wiki/project/low-dose-pet/</guid>
-      <description>&lt;p&gt;qweruiop&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>视觉科学与诊疗技术研究</title>
-      <link>https://www.milab.wiki/project/oct/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.milab.wiki/project/oct/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>分子影像应用与探针研发</title>
-      <link>https://www.milab.wiki/project/micro-pet/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.milab.wiki/project/micro-pet/</guid>
-      <description>&lt;p&gt;qweruiop&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>2020年春季学期大组会通知</title>
@@ -72,22 +46,6 @@
 &lt;p&gt;
 &lt;a href=&#34;http://wiki.milab.wiki/pages/viewpage.action?pageId=2064566&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;详细信息&amp;raquo;&lt;/a&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>sample journal article 1</title>
-      <link>https://www.milab.wiki/publication/journal-article-1/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.milab.wiki/publication/journal-article-1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>conference paper 1</title>
-      <link>https://www.milab.wiki/publication/conf-paper-1/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.milab.wiki/publication/conf-paper-1/</guid>
-      <description></description>
     </item>
     
   </channel>
