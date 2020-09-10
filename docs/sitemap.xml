@@ -17,12 +17,12 @@
   </url>
   
   <url>
-    <loc>https://www.milab.wiki/project/oct/</loc>
+    <loc>https://www.milab.wiki/project/opthalomogy/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.milab.wiki/project/micro-pet/</loc>
+    <loc>https://www.milab.wiki/project/molecule_imaging/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -45,17 +45,17 @@
   </url>
   
   <url>
+    <loc>https://www.milab.wiki/author/milab/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.milab.wiki/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.milab.wiki/post/milabwiki_go_online/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.milab.wiki/author/milab_spokesperson/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -142,10 +142,6 @@
   <url>
     <loc>https://www.milab.wiki/publication/conf-paper-1/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.milab.wiki/intranet/</loc>
   </url>
   
 </urlset>
