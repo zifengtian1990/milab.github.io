@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 8  # Order that this section will appear.
 
 title = "近期动态"
-subtitle = "[查看全部通知>>](./post/)"
+subtitle = "[查看全部>>](./post/)"
 isCJKLanguage = true
 
 [content]

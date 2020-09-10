@@ -34,19 +34,24 @@
 #  weight = 30
 
 [[main]]
-  name = "图集"
+  name = "Gallery"
   url = "#gallery"
-  weight = 40
+  weight = 56
 
 [[main]]
-  name = "Intranet"
-  url = "/intranet"
-  weight = 55
+  name = "Wiki"
+  url = "http://wiki.milab.wiki"
+  weight = 52
 
 [[main]]
-  name = "联系我们"
+  name = "GitLab"
+  url = "http://git.milab.wiki"
+  weight = 54
+
+[[main]]
+  name = "Contact"
   url = "#contact"
-  weight = 50
+  weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

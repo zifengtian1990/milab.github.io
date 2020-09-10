@@ -3,7 +3,7 @@ title: 'MILab-Wiki 服务上线，提供服务'
 # subtitle: 
 # summary: 
 authors:
-- milab_spokesperson
+- MILab
 tags:
 - Wiki
 categories:

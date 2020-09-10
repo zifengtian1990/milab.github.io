@@ -3,7 +3,7 @@ title: '2020年春季学期大组会通知'
 # subtitle: 
 # summary: 
 authors:
-- milab_spokesperson
+- MILab
 tags:
 - Wiki
 categories:

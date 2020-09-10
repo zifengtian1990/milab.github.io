@@ -3,7 +3,7 @@ title: '热烈欢迎 金录嘉、邱彬、胡毅成和郑东烨加入MILab博士
 # subtitle: 
 # summary: 
 authors:
-- milab_spokesperson
+- MILab
 tags:
 - Wiki
 categories:
