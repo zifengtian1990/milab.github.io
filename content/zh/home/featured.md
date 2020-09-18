@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 29  # Order that this section will appear.
 
 title = "近期发表成果"
-subtitle = "[查看全部发表成果>>](./publication/)"
+subtitle = "[查看全部发表成果>>](http://wiki.milab.wiki/display/SW/MILab+Publications)"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -32,13 +32,13 @@ subtitle = "[查看全部发表成果>>](./publication/)"
     author = ""
 
 [design]
-  columns = "2"
+  columns = "1"
   # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 2
+  view = 1
   
 [design.background]
   # Apply a background color, gradient, or image.

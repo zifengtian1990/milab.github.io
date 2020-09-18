@@ -25,7 +25,7 @@ summary: poiu
 
 tags:
 - deep learning
-featured: true
+featured: false
 
 # links:
 # - name: ""

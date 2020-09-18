@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
 title = "团队负责人"
-subtitle = "[查看全部团队成员>>](./authors/)"
+subtitle = "[查看全部团队成员>>](http://wiki.milab.wiki/display/SL/Lab+Members)"
 
 [content]
   # Choose which groups/teams of users to display.
