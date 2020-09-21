@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 副研究员
+role: 研究员
 
 weight: 40
 # Organizations/Affiliations
