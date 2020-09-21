@@ -93,7 +93,7 @@ address = {street = "海淀路52号, 王克桢楼", region = "北京市", postco
 coordinates = {latitude = "39.98586", longitude = "116.30889"} 
 
 # Directions for visitors to locate you.
-directions = "乘电梯至9楼，907室"
+directions = "乘电梯至9楼，908室"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
