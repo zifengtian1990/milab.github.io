@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 29  # Order that this section will appear.
 
 title = "近期发表成果"
-subtitle = "[查看全部发表成果>>](http://wiki.milab.wiki/display/SW/MILab+Publications)"
+subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -67,3 +67,5 @@ subtitle = "[查看全部发表成果>>](http://wiki.milab.wiki/display/SW/MILab
  # CSS class.
  css_class = ""
 +++
+
+#### [前往MILab WIKI查看全部发表成果>>](http://wiki.milab.wiki/display/SW/MILab+Publications)

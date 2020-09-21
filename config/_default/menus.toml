@@ -26,17 +26,12 @@
 [[main]]
   name = "近期发表成果"
   url = "#featured"
-  weight = 29
-
-#[[main]]
-#  name = "发表成果"
-#  url = "#publications"
-#  weight = 30
+  weight = 28
 
 [[main]]
-  name = "Gallery"
-  url = "#gallery"
-  weight = 56
+  name = "Lab Facilities"
+  url = "http://wiki.milab.wiki/display/LF"
+  weight = 40
 
 [[main]]
   name = "Wiki"
@@ -47,6 +42,11 @@
   name = "GitLab"
   url = "http://git.milab.wiki"
   weight = 54
+
+[[main]]
+  name = "Gallery"
+  url = "#gallery"
+  weight = 56
 
 [[main]]
   name = "Contact"

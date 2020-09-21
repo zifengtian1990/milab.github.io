@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 8  # Order that this section will appear.
 
 title = "近期动态"
-subtitle = "[查看全部>>](./post/)"
+subtitle = ""
 isCJKLanguage = true
 
 [content]
@@ -30,7 +30,7 @@ isCJKLanguage = true
     category = ""
     publication_type = ""
     author = ""
-    exclude_featured = false
+    exclude_featured = true
   
 [design]
   # Toggle between the various page layout types.
@@ -67,3 +67,5 @@ isCJKLanguage = true
  # CSS class.
  css_class = ""
 +++
+
+#### [如果你对MILab发生的事情感兴趣，请访问News Cluster查看>>](http://wiki.milab.wiki/display/NC/News+Cluster)
