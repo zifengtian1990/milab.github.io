@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: 生物医学工程教授, 实验室负责人, 博士生导师
+role: 生物医学工程教授<br/>实验室负责人, 博士生导师
 
 # Organizations/Affiliations
 organizations:
