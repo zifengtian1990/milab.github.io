@@ -4,7 +4,6 @@
   
   <url>
     <loc>https://www.milab.wiki/author/%E4%BB%BB%E7%A7%8B%E5%AE%9E/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -90,32 +89,7 @@
   </url>
   
   <url>
-    <loc>https://www.milab.wiki/publication-type/2/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.milab.wiki/tag/deep-learning/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.milab.wiki/project/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.milab.wiki/publication_types/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.milab.wiki/publication/journal-article-1/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.milab.wiki/publication/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -135,13 +109,11 @@
   </url>
   
   <url>
-    <loc>https://www.milab.wiki/publication-type/1/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <loc>https://www.milab.wiki/publication_types/</loc>
   </url>
   
   <url>
-    <loc>https://www.milab.wiki/publication/conf-paper-1/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <loc>https://www.milab.wiki/publication/</loc>
   </url>
   
 </urlset>
